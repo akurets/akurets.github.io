@@ -1,0 +1,16 @@
+base_url = "https://akurets.github.io"
+theme = "oceanic-zen"
+
+default_language = "en"
+title = "_br0ken_"
+description = "pretend to be a blog"
+
+highlight_code = true
+compile_sass = true
+generate_rss = true
+build_search_index = true
+
+[extra]
+author = "_br0ken_"
+github = "akurets"
+#twitter = "twitter author name"

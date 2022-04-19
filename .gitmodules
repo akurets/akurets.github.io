@@ -1,0 +1,10 @@
+[submodule "themes/zola.386"]
+	path = themes/zola.386
+	url = https://github.com/lopes/zola.386
+[submodule "themes/blow"]
+	path = themes/blow
+	url = git@github.com:tchartron/blow.git
+	branch = main
+[submodule "themes/oceanic-zen"]
+	path = themes/oceanic-zen
+	url = https://github.com/barlog-m/oceanic-zen.git
