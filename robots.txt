@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://akurets.github.io/sitemap.xml
